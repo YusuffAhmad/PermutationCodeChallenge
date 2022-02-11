@@ -1,0 +1,13 @@
+C:\Users\OLALEKAN\Desktop\MyFiles\Code challenges\YAhmadCodeChallenge\bin\Debug\netcoreapp3.1\YAhmadCodeChallenge.exe
+C:\Users\OLALEKAN\Desktop\MyFiles\Code challenges\YAhmadCodeChallenge\bin\Debug\netcoreapp3.1\YAhmadCodeChallenge.deps.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Code challenges\YAhmadCodeChallenge\bin\Debug\netcoreapp3.1\YAhmadCodeChallenge.runtimeconfig.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Code challenges\YAhmadCodeChallenge\bin\Debug\netcoreapp3.1\YAhmadCodeChallenge.runtimeconfig.dev.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Code challenges\YAhmadCodeChallenge\bin\Debug\netcoreapp3.1\YAhmadCodeChallenge.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Code challenges\YAhmadCodeChallenge\bin\Debug\netcoreapp3.1\YAhmadCodeChallenge.pdb
+C:\Users\OLALEKAN\Desktop\MyFiles\Code challenges\YAhmadCodeChallenge\obj\Debug\netcoreapp3.1\YAhmadCodeChallenge.csprojAssemblyReference.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Code challenges\YAhmadCodeChallenge\obj\Debug\netcoreapp3.1\YAhmadCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Code challenges\YAhmadCodeChallenge\obj\Debug\netcoreapp3.1\YAhmadCodeChallenge.AssemblyInfo.cs
+C:\Users\OLALEKAN\Desktop\MyFiles\Code challenges\YAhmadCodeChallenge\obj\Debug\netcoreapp3.1\YAhmadCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Code challenges\YAhmadCodeChallenge\obj\Debug\netcoreapp3.1\YAhmadCodeChallenge.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Code challenges\YAhmadCodeChallenge\obj\Debug\netcoreapp3.1\YAhmadCodeChallenge.pdb
+C:\Users\OLALEKAN\Desktop\MyFiles\Code challenges\YAhmadCodeChallenge\obj\Debug\netcoreapp3.1\YAhmadCodeChallenge.genruntimeconfig.cache
